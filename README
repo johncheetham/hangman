@@ -1,0 +1,22 @@
+Hangman 0.1
+John Cheetham June 2009
+
+Project Homepage : http://www.johncheetham.com/projects/hangman
+email : developer@johncheetham.com
+
+Description
+-----------
+Hangman game written in Python/GTK2. It is licensed under the GPL.
+See the file named LICENSE.
+All the words are the names of actors/actresses.
+
+Prerequisites
+-------------
+It requires python, GTK+ 2 and PyGTK. On linux these will usually
+be already installed. If not they can be installed using the package manager
+on most distros.
+For windows see http://www.pygtk.org/downloads.html.
+
+Running
+-------
+To run it change into then hangman directory and run hangman.py.
